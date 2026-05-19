@@ -1,13 +1,14 @@
-Developed a command-line encryption and decryption utility supporting multiple classical cipher algorithms.
+# NEX Encryption Tool
 
-Key features:
-- Caesar Cipher implementation
-- Vigenère Cipher support
+CLI-based text encryption and decryption application written in Python.
+
+## Features
+- Multiple encryption algorithms
+- Caesar cipher
+- Vigenère cipher
 - Polyalphabetic encryption
-- Transposition cipher algorithms
-- Stream cipher functionality
-- Brute-force decryption logic
-- Interactive CLI menu system
+- Stream cipher support
+- Brute-force decryption functionality
 
-Technologies used:
-Python
+## Technologies
+- Python
